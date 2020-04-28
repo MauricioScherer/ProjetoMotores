@@ -1951,3 +1951,1307 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-23.42.13:488][460]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/ArturFF7FCCB54F47B8391CF32E9CC7AC7A08.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Maps/Artur.umap'
 [2020.04.27-23.42.13:525][460]AssetCheck: New page: Asset Save: Artur
 [2020.04.27-23.42.13:526][460]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/Artur.Artur
+[2020.04.27-23.46.34:563][758]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.14.37:444][392]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.04.28-00.14.37:749][392]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto6AE01C49E443EC0D5908A55869C6DAFEE.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto6.umap'
+[2020.04.28-00.14.37:752][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 0.346
+[2020.04.28-00.14.37:752][392]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.346
+[2020.04.28-00.14.37:753][392]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol] ([1] browsable assets)...
+[2020.04.28-00.14.37:767][392]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol]
+[2020.04.28-00.14.37:767][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol]
+[2020.04.28-00.14.37:818][392]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol_Auto6966EA3B948325AA4BF22F2A162C1DBED.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Blueprints/AI/NPC_Patrol_Auto6.uasset'
+[2020.04.28-00.14.37:820][392]LogFileHelpers: Auto-saving content packages took 0.068
+[2020.04.28-00.19.03:487][546]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-00.19.03:772][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.28-00.19.05:036][610]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolDAEE872E4D9E8DD1A6CDEAAA4C7139CF.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-00.19.05:064][610]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-00.19.05:064][610]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.19.09:268][852]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-00.19.09:288][852]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.19.09:288][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.19.11:180][960]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.19.11:192][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.19.11:192][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.19.11:192][960]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:19:11)
+[2020.04.28-00.19.11:193][960]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.19.11:330][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136342s)
+[2020.04.28-00.19.11:332][960]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.19.11:332][960]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2020.04.28-00.19.11:332][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.138698s)
+[2020.04.28-00.19.11:423][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.04.28-00.19.11:425][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.19.11:425][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.19.11:425][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.19.11:426][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.19.11:426][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.19.11:426][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.19.11:426][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.19.11:426][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.19.11:426][960]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.19.11:426][960]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.19.11:434][960]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.19.11:435][960]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.19.11:463][960]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.19.11:466][960]LogInit: FAudioDevice initialized.
+[2020.04.28-00.19.11:479][960]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.19.11:482][960]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.19.11
+[2020.04.28-00.19.11:483][960]LogWorld: Bringing up level for play took: 0.002598
+[2020.04.28-00.19.11:484][960]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.04.28-00.19.11:486][960]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,35
+[2020.04.28-00.19.11:486][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.19.30:824][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.19.30:824][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.19.30:824][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.19.30:825][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.19.30:825][108]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.19.30:825][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.19.30:825][108]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.19.30:826][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.19.30:831][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.19.30:831][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.19.30:836][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.19.30:868][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.19.30:872][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.19.30:876][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.28-00.19.30:929][111]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.04.28-00.20.49:305][506]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.21.25:833][542]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2020.04.28-00.21.26:126][547]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2020.04.28-00.21.27:470][611]LogEditorTransaction: Undo Mover Nó
+[2020.04.28-00.21.28:410][661]LogEditorTransaction: Undo Delete current selection
+[2020.04.28-00.21.30:282][768]LogEditorTransaction: Redo Delete current selection
+[2020.04.28-00.21.30:538][778]LogEditorTransaction: Redo Mover Nó
+[2020.04.28-00.21.30:792][788]LogEditorTransaction: Redo Criar Vínculo de Fixador
+[2020.04.28-00.21.31:452][823]LogEditorTransaction: Redo Criar Vínculo de Fixador
+[2020.04.28-00.21.42:571][466]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-00.21.42:862][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.04.28-00.21.43:534][496]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolCF6C2939451518B68D76EC9440915B64.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-00.21.43:558][496]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-00.21.43:558][496]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.21.46:168][640]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-00.21.46:178][640]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.21.46:178][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.21.48:078][749]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.21.48:088][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.21.48:088][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.21.48:088][749]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:21:48)
+[2020.04.28-00.21.48:089][749]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.21.48:109][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020012s)
+[2020.04.28-00.21.48:110][749]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.21.48:110][749]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2020.04.28-00.21.48:110][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.021584s)
+[2020.04.28-00.21.48:188][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.21.48:189][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.21.48:189][749]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.21.48:189][749]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.21.48:198][749]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.21.48:225][749]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.21.48:227][749]LogInit: FAudioDevice initialized.
+[2020.04.28-00.21.48:238][749]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.21.48:243][749]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.21.48
+[2020.04.28-00.21.48:244][749]LogWorld: Bringing up level for play took: 0.004798
+[2020.04.28-00.21.48:244][749]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.04.28-00.21.48:247][749]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 1,111
+[2020.04.28-00.21.48:247][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.22.28:738][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.22.28:739][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.22.28:739][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.22.28:739][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.22.28:739][ 64]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.22.28:741][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.22.28:741][ 64]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.22.28:741][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.22.28:751][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.22.28:752][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.22.28:756][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.22.28:790][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.22.28:795][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.22.28:800][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.04.28-00.22.28:848][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.04.28-00.22.32:650][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.24.49:306][784]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.24.49:316][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.24.49:316][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.24.49:316][784]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:24:49)
+[2020.04.28-00.24.49:429][784]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.24.49:447][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017804s)
+[2020.04.28-00.24.49:449][784]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.24.49:449][784]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2020.04.28-00.24.49:449][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.019862s)
+[2020.04.28-00.24.49:515][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.24.49:520][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.24.49:520][784]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.24.49:520][784]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.24.49:527][784]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.24.49:555][784]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.24.49:558][784]LogInit: FAudioDevice initialized.
+[2020.04.28-00.24.49:576][784]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.24.49:580][784]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.24.49
+[2020.04.28-00.24.49:580][784]LogWorld: Bringing up level for play took: 0.003776
+[2020.04.28-00.24.49:581][784]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.04.28-00.24.49:586][784]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,45
+[2020.04.28-00.24.49:586][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.25.20:685][630]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.25.20:686][630]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.25.20:686][630]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.25.20:686][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.25.20:686][630]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.25.20:686][630]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.25.20:686][630]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.25.20:687][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.25.20:714][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.25.20:714][630]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.25.20:718][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.25.20:753][630]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.25.20:758][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.25.20:762][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.28-00.25.20:822][631]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.04.28-00.29.30:452][132]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-00.29.30:735][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.28-00.29.32:558][229]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol09F409B845D290EB0C70BD93478A8F71.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-00.29.32:583][229]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-00.29.32:583][229]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.29.37:933][528]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-00.29.37:940][528]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.29.37:940][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.29.40:766][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.29.40:778][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.29.40:778][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.29.40:778][692]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:29:40)
+[2020.04.28-00.29.40:778][692]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.29.40:795][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016830s)
+[2020.04.28-00.29.40:796][692]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.29.40:797][692]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2020.04.28-00.29.40:797][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.018584s)
+[2020.04.28-00.29.40:875][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.28-00.29.40:876][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.29.40:877][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.29.40:877][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.29.40:877][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.29.40:877][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.29.40:877][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.29.40:877][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.29.40:877][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.29.40:878][692]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.29.40:878][692]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.29.40:885][692]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.29.40:886][692]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.29.40:912][692]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.29.40:914][692]LogInit: FAudioDevice initialized.
+[2020.04.28-00.29.40:920][692]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.29.40:923][692]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.29.40
+[2020.04.28-00.29.40:923][692]LogWorld: Bringing up level for play took: 0.002239
+[2020.04.28-00.29.40:924][692]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.04.28-00.29.40:927][692]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,209
+[2020.04.28-00.29.40:928][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.30.00:293][849]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.30.00:293][849]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.30.00:293][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.30.00:293][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.30.00:294][849]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.30.00:294][849]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.30.00:294][849]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.30.00:294][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.30.00:302][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.30.00:302][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.30.00:309][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.30.00:347][849]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.30.00:351][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.30.00:356][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.04.28-00.30.00:401][852]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.04.28-00.30.01:851][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.30.37:865][  3]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-00.30.37:883][  3]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.30.37:883][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.30.39:484][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.30.39:495][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.30.39:495][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.30.39:495][ 91]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:30:39)
+[2020.04.28-00.30.39:536][ 91]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.30.39:554][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018410s)
+[2020.04.28-00.30.39:555][ 91]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.30.39:556][ 91]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2020.04.28-00.30.39:556][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.020222s)
+[2020.04.28-00.30.39:639][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.04.28-00.30.39:641][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.30.39:641][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.30.39:641][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.30.39:641][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.30.39:642][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.30.39:642][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.30.39:642][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.30.39:642][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.30.39:642][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.30.39:642][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.30.39:650][ 91]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.30.39:678][ 91]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.30.39:680][ 91]LogInit: FAudioDevice initialized.
+[2020.04.28-00.30.39:693][ 91]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.30.39:696][ 91]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.30.39
+[2020.04.28-00.30.39:697][ 91]LogWorld: Bringing up level for play took: 0.002604
+[2020.04.28-00.30.39:697][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.04.28-00.30.39:699][ 91]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,563
+[2020.04.28-00.30.39:700][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.31.42:430][772]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.32.28:089][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.32.28:090][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.32.28:090][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.32.28:090][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.32.28:090][367]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.32.28:090][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.32.28:091][367]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.32.28:091][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.32.28:129][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.32.28:129][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.32.28:136][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.32.28:175][367]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.32.28:180][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.32.28:185][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.04.28-00.32.28:268][368]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.04.28-00.32.36:651][823]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-00.32.36:946][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.04.28-00.32.38:046][874]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol20E2DBA04216D6F5D1385B9EF33B6D14.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-00.32.38:074][874]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-00.32.38:074][874]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.32.41:502][ 67]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-00.32.41:513][ 67]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.32.41:514][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.32.42:680][132]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.32.42:691][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.32.42:691][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.32.42:691][132]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:32:42)
+[2020.04.28-00.32.42:692][132]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.32.42:710][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017716s)
+[2020.04.28-00.32.42:711][132]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.32.42:711][132]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2020.04.28-00.32.42:711][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.019619s)
+[2020.04.28-00.32.42:790][132]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.32.42:791][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.32.42:791][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.32.42:792][132]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.32.42:792][132]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.32.42:804][132]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.32.42:831][132]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.32.42:832][132]LogInit: FAudioDevice initialized.
+[2020.04.28-00.32.42:840][132]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.32.42:844][132]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.32.42
+[2020.04.28-00.32.42:844][132]LogWorld: Bringing up level for play took: 0.002610
+[2020.04.28-00.32.42:844][132]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.04.28-00.32.42:846][132]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,29
+[2020.04.28-00.32.42:847][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.32.55:257][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.33.25:360][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.33.25:360][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.33.25:360][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.33.25:361][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.33.25:361][553]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.33.25:362][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.33.25:362][553]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.33.25:363][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.33.25:399][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.33.25:399][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.33.25:403][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.33.25:437][553]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.33.25:443][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.33.25:447][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.04.28-00.33.25:529][554]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.04.28-00.35.03:167][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.04.28-00.35.03:476][246]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto70C461C3D493127549C76E1A85ADFD801.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto7.umap'
+[2020.04.28-00.35.03:480][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 0.351
+[2020.04.28-00.35.03:480][246]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.351
+[2020.04.28-00.35.03:481][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol] ([1] browsable assets)...
+[2020.04.28-00.35.03:494][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol]
+[2020.04.28-00.35.03:494][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol]
+[2020.04.28-00.35.03:538][246]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol_Auto78F0B1476465F9FFE532157B89C595AE0.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Blueprints/AI/NPC_Patrol_Auto7.uasset'
+[2020.04.28-00.35.03:541][246]LogFileHelpers: Auto-saving content packages took 0.060
+[2020.04.28-00.37.47:287][ 27]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-00.37.47:562][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.04.28-00.37.49:231][115]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol0C2B934940331B8803B84C8F5B1A6488.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-00.37.49:257][115]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-00.37.49:257][115]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.37.52:915][330]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-00.37.52:923][330]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.37.52:923][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.37.54:930][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.37.54:941][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.37.54:941][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.37.54:941][443]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:37:54)
+[2020.04.28-00.37.54:974][443]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.37.54:993][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019136s)
+[2020.04.28-00.37.54:994][443]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.37.54:994][443]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2020.04.28-00.37.54:995][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.020587s)
+[2020.04.28-00.37.55:081][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.37.55:082][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.37.55:082][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.37.55:083][443]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.37.55:083][443]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.37.55:092][443]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.37.55:116][443]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.37.55:118][443]LogInit: FAudioDevice initialized.
+[2020.04.28-00.37.55:144][443]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.37.55:147][443]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.37.55
+[2020.04.28-00.37.55:147][443]LogWorld: Bringing up level for play took: 0.002317
+[2020.04.28-00.37.55:148][443]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.04.28-00.37.55:150][443]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,014
+[2020.04.28-00.37.55:150][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.26:489][279]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.26:489][279]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.26:489][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.26:489][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.38.26:489][279]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.38.26:490][279]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.26:490][279]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.38.26:490][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.38.26:496][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.38.26:497][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.26:503][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.38.26:537][279]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.26:541][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.38.26:547][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.04.28-00.38.26:594][282]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.04.28-00.38.27:765][352]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-00.38.27:774][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.27:774][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-00.38.27:774][352]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 18:38:27)
+[2020.04.28-00.38.27:775][352]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.38.27:794][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018662s)
+[2020.04.28-00.38.27:796][352]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-00.38.27:796][352]LogPlayLevel: PIE: World Init took: (0.002458s)
+[2020.04.28-00.38.27:796][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.021379s)
+[2020.04.28-00.38.27:838][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-00.38.27:838][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-00.38.27:838][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-00.38.27:839][352]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-00.38.27:839][352]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: Channel Order:
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-00.38.27:848][352]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-00.38.27:875][352]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-00.38.27:877][352]LogInit: FAudioDevice initialized.
+[2020.04.28-00.38.27:888][352]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-00.38.27:891][352]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-21.38.27
+[2020.04.28-00.38.27:892][352]LogWorld: Bringing up level for play took: 0.002898
+[2020.04.28-00.38.27:892][352]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.04.28-00.38.27:896][352]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,76
+[2020.04.28-00.38.27:896][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.34:304][733]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:327][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:334][734]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:334][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:350][735]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:350][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:367][736]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:367][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:384][737]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:384][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:400][738]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:400][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:417][739]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:417][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:434][740]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:434][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.34:451][741]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation:00D5
+[2020.04.28-00.38.34:451][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue". Blueprint:  TopDownController Function:  Move to Hit Location Graph:  MoveToHitLocation Node:  Ramificação
+[2020.04.28-00.38.41:238][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.41:238][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.41:238][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.41:239][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.38.41:239][147]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-00.38.41:239][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.41:239][147]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-00.38.41:239][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.38.41:251][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-00.38.41:251][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-00.38.41:255][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-00.38.41:287][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-00.38.41:292][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-00.38.41:296][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.28-00.38.41:685][148]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.04.28-00.38.56:874][ 52]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2020.04.28-00.38.56:885][ 52]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2020.04.28-00.39.10:594][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-00.46.01:352][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.04.28-00.46.01:673][ 80]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto83D7E692545B3EAC1B0EB1295721BA7B8.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto8.umap'
+[2020.04.28-00.46.01:676][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 0.368
+[2020.04.28-00.46.01:676][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.368
+[2020.04.28-00.46.01:676][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol] ([1] browsable assets)...
+[2020.04.28-00.46.01:689][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol]
+[2020.04.28-00.46.01:689][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol]
+[2020.04.28-00.46.01:736][ 80]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol_Auto828703EBF44A775E9DE6EEB9671AC64E7.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Blueprints/AI/NPC_Patrol_Auto8.uasset'
+[2020.04.28-00.46.01:739][ 80]LogFileHelpers: Auto-saving content packages took 0.063
+[2020.04.28-00.52.56:524][501]LogRenderer: Reallocating scene render targets to support 1128x536 Format 10 NumSamples 1 (Frame:1).
+[2020.04.28-00.56.02:297][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.04.28-00.56.03:029][278]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto92B7B43624CFC55F443C0A78CB067365B.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto9.umap'
+[2020.04.28-00.56.03:032][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 0.803
+[2020.04.28-00.56.03:032][278]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.803
+[2020.04.28-00.56.03:033][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol] ([1] browsable assets)...
+[2020.04.28-00.56.03:051][278]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol]
+[2020.04.28-00.56.03:051][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol]
+[2020.04.28-00.56.03:198][278]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol_Auto9EB6E9DCD4B00D1F2DF61689DFCD16EA6.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Blueprints/AI/NPC_Patrol_Auto9.uasset'
+[2020.04.28-00.56.03:201][278]LogFileHelpers: Auto-saving content packages took 0.170
+[2020.04.28-01.01.26:424][676]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.01.27:369][676]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.04.28-01.01.28:863][749]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol1C33A813408877CDB61F278DFBAE7A40.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.01.28:891][749]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.01.28:891][749]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.01.31:376][885]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.01.31:396][885]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.01.31:396][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.01.32:735][953]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.01.32:809][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.01.32:810][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.01.32:810][953]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:01:32)
+[2020.04.28-01.01.32:973][953]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.01.33:110][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137762s)
+[2020.04.28-01.01.33:144][953]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.01.33:144][953]LogPlayLevel: PIE: World Init took: (0.033115s)
+[2020.04.28-01.01.33:144][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.171082s)
+[2020.04.28-01.01.33:254][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.01.33:312][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.01.33:312][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.01.33:313][953]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.01.33:313][953]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.01.33:322][953]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.01.33:350][953]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.01.33:352][953]LogInit: FAudioDevice initialized.
+[2020.04.28-01.01.33:361][953]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.01.33:366][953]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.01.33
+[2020.04.28-01.01.33:367][953]LogWorld: Bringing up level for play took: 0.004701
+[2020.04.28-01.01.33:368][953]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.04.28-01.01.33:415][953]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,28
+[2020.04.28-01.01.33:415][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.01.40:653][295]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.01.40:653][295]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.01.40:653][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.01.40:653][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.01.40:653][295]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.01.40:653][295]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.01.40:654][295]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.01.40:654][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.01.40:667][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.01.40:667][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.01.40:671][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.01.40:707][295]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.01.40:711][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.01.40:716][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.04.28-01.01.40:762][298]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.04.28-01.02.11:271][841]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.03.39:331][907]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.03.39:608][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.04.28-01.03.40:300][935]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolFE54142148D9ABB8D1C6C1AD588AE2D7.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.03.40:325][935]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.03.40:325][935]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.03.47:122][249]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.28-01.05.16:972][ 99]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.05.17:451][ 99]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.05.17:451][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.05.31:467][789]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.04.28-01.05.33:564][789]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.1980 seconds. Added 1 classes and 2 folders.
+[2020.04.28-01.05.37:798][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-01.05.38:047][789]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0909 seconds. Added 1 classes and 0 folders.
+[2020.04.28-01.05.40:506][789]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-01.06.07:922][552]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2020.04.28-01.06.08:771][552]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.04.28-01.06.09:356][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.04.28-01.06.11:746][554]LogRenderer: Reallocating scene render targets to support 1128x668 Format 10 NumSamples 1 (Frame:1).
+[2020.04.28-01.06.18:133][643]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.04.28-01.06.18:315][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-01.06.18:505][643]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-01.06.20:320][643]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.28-01.06.28:498][933]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.04.28-01.06.39:642][395]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2020.04.28-01.06.40:175][395]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.06.40:175][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.06.47:623][730]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.04.28-01.06.47:749][730]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.28-01.06.47:793][730]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.04.28-01.06.48:176][730]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.06.48:176][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.06.51:356][881]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.04.28-01.06.51:742][881]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.06.51:742][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.06.55:908][ 94]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.04.28-01.06.56:487][ 94]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.06.56:487][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.07:306][628]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.04.28-01.07.07:437][628]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.07:437][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.09:662][716]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.28-01.07.10:161][716]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.28-01.07.10:662][716]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.28-01.07.11:386][717]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.04.28-01.07.11:553][717]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.11:553][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.28:204][622]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.28:205][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.28:300][622]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.28:300][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.29:825][622]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.29:825][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.30:625][654]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.30:625][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.32:349][744]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.04.28-01.07.32:393][744]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.32:393][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.32:404][744]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.32:404][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.33:143][744]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.07.33:143][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.07.45:621][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.10.42:385][890]LogUObjectHash: Compacting FUObjectHashTables data took   9.55ms
+[2020.04.28-01.10.43:367][890]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto04159AA89497924E4CA8ECA9CF319407F.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto0.umap'
+[2020.04.28-01.10.43:369][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 13.498
+[2020.04.28-01.10.43:369][890]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 13.498
+[2020.04.28-01.10.43:370][890]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol] ([1] browsable assets)...
+[2020.04.28-01.10.43:382][890]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol]
+[2020.04.28-01.10.43:382][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol]
+[2020.04.28-01.10.43:431][890]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol_Auto05AF336EA44A91500BB7F17A06C56E31A.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Blueprints/AI/NPC_Patrol_Auto0.uasset'
+[2020.04.28-01.10.43:433][890]LogFileHelpers: Auto-saving content packages took 0.063
+[2020.04.28-01.11.22:222][144]Cmd: TRANSACTION UNDO
+[2020.04.28-01.11.22:222][144]LogEditorTransaction: Undo Adicionar Nó
+[2020.04.28-01.20.56:964][806]LogUObjectHash: Compacting FUObjectHashTables data took  33.89ms
+[2020.04.28-01.21.01:476][806]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto12BDC1B73480C7633B32DC3AC718EFE71.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto1.umap'
+[2020.04.28-01.21.01:478][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 17.888
+[2020.04.28-01.21.01:478][806]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 17.888
+[2020.04.28-01.21.01:479][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol] ([1] browsable assets)...
+[2020.04.28-01.21.01:502][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol]
+[2020.04.28-01.21.01:502][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/AI/NPC_Patrol]
+[2020.04.28-01.21.01:554][806]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol_Auto1596491F34DDB2070AA2373B8D3A2CEF6.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Blueprints/AI/NPC_Patrol_Auto1.uasset'
+[2020.04.28-01.21.01:569][806]LogFileHelpers: Auto-saving content packages took 0.091
+[2020.04.28-01.25.42:567][873]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.25.42:847][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.04.28-01.25.44:421][952]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol3FFFF82D457B83D704A258850FA85306.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.25.44:447][952]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.25.44:447][952]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.25.50:630][287]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.25.50:639][287]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.25.50:639][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.26.44:008][258]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.04.28-01.28.01:799][716]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.04.28-01.28.01:831][716]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.28.01:831][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.28.18:142][636]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.04.28-01.28.18:156][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-01.28.18:554][636]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-01.29.41:397][468]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.04.28-01.29.41:402][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-01.29.41:465][468]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-01.29.41:854][468]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.28-01.30.41:446][980]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.30.41:446][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.30.41:670][980]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.30.41:670][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.30.43:364][ 78]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2020.04.28-01.30.43:412][ 78]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.30.43:412][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.30.43:417][ 78]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.30.43:417][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.30.43:648][ 78]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.30.43:648][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.30.52:945][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.37.13:771][732]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.37.13:873][732]LogBlueprint: Error: [Compiler NPC_Patrol] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Alvo ' must have a connection.
+[2020.04.28-01.37.13:873][732]LogBlueprint: Error: [Compiler NPC_Patrol] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Alvo ' must have a connection.
+[2020.04.28-01.37.13:894][732]LogBlueprint: Error: [Compiler NPC_Patrol] O nó da variável  Definir Speed  usa um destino inválido. Ele pode depender de um nó que não estava conectado à cadeia de execução e foi removido.
+[2020.04.28-01.37.13:894][732]LogBlueprint: Error: [Compiler NPC_Patrol] O nó da variável  Definir Speed  usa um destino inválido. Ele pode depender de um nó que não estava conectado à cadeia de execução e foi removido.
+[2020.04.28-01.37.14:177][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.04.28-01.37.22:436][213]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.37.22:447][213]LogBlueprint: Error: [Compiler NPC_Patrol] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Alvo ' must have a connection.
+[2020.04.28-01.37.22:447][213]LogBlueprint: Error: [Compiler NPC_Patrol] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Alvo ' must have a connection.
+[2020.04.28-01.37.22:448][213]LogBlueprint: Error: [Compiler NPC_Patrol] O nó da variável  Definir Speed  usa um destino inválido. Ele pode depender de um nó que não estava conectado à cadeia de execução e foi removido.
+[2020.04.28-01.37.22:448][213]LogBlueprint: Error: [Compiler NPC_Patrol] O nó da variável  Definir Speed  usa um destino inválido. Ele pode depender de um nó que não estava conectado à cadeia de execução e foi removido.
+[2020.04.28-01.37.22:837][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.28-01.37.23:059][224]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.37.23:070][224]LogBlueprint: Error: [Compiler NPC_Patrol] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Alvo ' must have a connection.
+[2020.04.28-01.37.23:070][224]LogBlueprint: Error: [Compiler NPC_Patrol] This blueprint (self) is not a ThirdPerson_AnimBP_C, therefore ' Alvo ' must have a connection.
+[2020.04.28-01.37.23:071][224]LogBlueprint: Error: [Compiler NPC_Patrol] O nó da variável  Definir Speed  usa um destino inválido. Ele pode depender de um nó que não estava conectado à cadeia de execução e foi removido.
+[2020.04.28-01.37.23:071][224]LogBlueprint: Error: [Compiler NPC_Patrol] O nó da variável  Definir Speed  usa um destino inválido. Ele pode depender de um nó que não estava conectado à cadeia de execução e foi removido.
+[2020.04.28-01.37.23:339][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.28-01.37.45:485][499]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.37.45:791][499]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.04.28-01.37.49:249][688]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolEA0373704449CA60863DC9B56AA9F2A6.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.37.49:275][688]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.37.49:275][688]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.37.58:522][222]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol4E1E9E9F4DFB3E45B002AA87F6C10EDE.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.37.58:550][222]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.37.58:550][222]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.38.02:655][448]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.38.02:689][448]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.38.02:689][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.38.04:122][529]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.38.04:135][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.04:135][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.38.04:135][529]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:38:04)
+[2020.04.28-01.38.04:135][529]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.38.04:156][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020415s)
+[2020.04.28-01.38.04:158][529]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.38.04:158][529]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2020.04.28-01.38.04:158][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.022714s)
+[2020.04.28-01.38.04:238][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.38.04:348][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.38.04:348][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.38.04:349][529]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.38.04:349][529]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.38.04:358][529]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.38.04:389][529]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.38.04:392][529]LogInit: FAudioDevice initialized.
+[2020.04.28-01.38.04:407][529]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.38.04:411][529]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.38.04
+[2020.04.28-01.38.04:411][529]LogWorld: Bringing up level for play took: 0.003008
+[2020.04.28-01.38.04:412][529]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.04.28-01.38.04:416][529]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 1,28
+[2020.04.28-01.38.04:416][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.08:291][730]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.28-01.38.08:794][731]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.28-01.38.18:801][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.18:801][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.18:801][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.18:801][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.38.18:801][314]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.38.18:801][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.18:801][314]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.38.18:802][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.38.18:812][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.38.18:812][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.18:817][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.38.18:869][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.18:875][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.38.18:880][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.28-01.38.18:913][316]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.04.28-01.38.22:650][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.22:650][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.38.22:651][533]PIE: New page: Sessão de SIE: Artur (27 de abr de 2020 19:38:22)
+[2020.04.28-01.38.22:694][533]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.38.22:715][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022241s)
+[2020.04.28-01.38.22:716][533]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.38.22:717][533]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2020.04.28-01.38.22:717][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.023843s)
+[2020.04.28-01.38.22:763][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.38.22:764][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.38.22:764][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.38.22:765][533]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.38.22:765][533]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.38.22:775][533]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.38.22:803][533]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.38.22:805][533]LogInit: FAudioDevice initialized.
+[2020.04.28-01.38.22:852][533]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.38.22:855][533]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.38.22
+[2020.04.28-01.38.22:855][533]LogWorld: Bringing up level for play took: 0.002478
+[2020.04.28-01.38.22:856][533]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2020.04.28-01.38.22:954][533]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,182
+[2020.04.28-01.38.22:957][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.35:558][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.35:558][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.35:558][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.35:559][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.38.35:559][282]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.38.35:560][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.35:560][282]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.38.35:561][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.38.35:566][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.38.35:567][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.38.35:574][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.38.35:744][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.38.35:748][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.38.35:753][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.28-01.38.35:768][283]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.04.28-01.38.48:380][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.39.56:062][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.04.28-01.39.56:453][589]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto2E623CA614A6B854A797E0AB89A4B7A43.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto2.umap'
+[2020.04.28-01.39.56:456][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 0.489
+[2020.04.28-01.39.56:456][589]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.489
+[2020.04.28-01.49.09:755][ 77]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.49.10:037][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.28-01.49.11:910][168]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol1D22ED7B491B8C9814C247877474661E.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.49.11:937][168]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.49.11:938][168]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.50.02:620][ 79]LogEditorTransaction: Undo Adicionar Nó
+[2020.04.28-01.50.44:932][451]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.50.45:214][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.28-01.50.46:161][494]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolF30C858D4D5710D0836FADAF4137B5C3.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.50.46:187][494]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.50.46:187][494]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.50.47:738][578]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.50.47:759][578]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.50.47:759][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.50.49:947][701]LogTemp: Repeating last play command: Simulate
+[2020.04.28-01.50.49:958][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.50.49:958][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.50.49:958][701]PIE: New page: Sessão de SIE: Artur (27 de abr de 2020 19:50:49)
+[2020.04.28-01.50.50:222][701]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.50.50:244][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021550s)
+[2020.04.28-01.50.50:245][701]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.50.50:245][701]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2020.04.28-01.50.50:245][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.023249s)
+[2020.04.28-01.50.50:333][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.50.50:415][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.50.50:415][701]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.50.50:415][701]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.50.50:423][701]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.50.50:450][701]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.50.50:452][701]LogInit: FAudioDevice initialized.
+[2020.04.28-01.50.50:467][701]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.50.50:470][701]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.50.50
+[2020.04.28-01.50.50:470][701]LogWorld: Bringing up level for play took: 0.002324
+[2020.04.28-01.50.50:471][701]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.04.28-01.50.50:492][701]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 1,356
+[2020.04.28-01.50.50:494][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.50.56:204][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.28-01.50.56:960][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.28-01.50.56:971][ 44]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.28-01.50.57:869][ 94]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.28-01.50.59:699][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.50.59:699][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.50.59:699][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.50.59:700][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.50.59:700][201]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.50.59:796][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.50.59:796][201]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.50.59:796][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.50.59:845][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.50.59:845][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.50.59:850][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.50.59:922][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.50.59:927][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.50.59:945][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.28-01.51.00:165][202]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.04.28-01.51.04:798][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.51.04:798][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.51.04:798][465]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:51:04)
+[2020.04.28-01.51.04:799][465]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.51.04:815][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016480s)
+[2020.04.28-01.51.04:817][465]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.51.04:817][465]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2020.04.28-01.51.04:817][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.018113s)
+[2020.04.28-01.51.04:856][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.51.04:857][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.51.04:857][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.51.04:858][465]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.51.04:858][465]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.51.04:866][465]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.51.04:896][465]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.51.04:898][465]LogInit: FAudioDevice initialized.
+[2020.04.28-01.51.04:910][465]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.51.04:913][465]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.51.04
+[2020.04.28-01.51.04:914][465]LogWorld: Bringing up level for play took: 0.002955
+[2020.04.28-01.51.04:914][465]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2020.04.28-01.51.04:916][465]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,22
+[2020.04.28-01.51.04:917][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.51.28:001][830]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.51.28:002][830]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.51.28:002][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.51.28:002][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.51.28:002][830]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.51.28:002][830]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.51.28:002][830]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.51.28:003][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.51.28:011][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.51.28:012][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.51.28:019][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.51.28:097][830]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.51.28:101][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.51.28:106][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.28-01.51.28:122][831]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2020.04.28-01.51.33:210][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.52.42:723][106]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.52.43:003][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.04.28-01.52.43:819][146]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol1364B0CA4D70FC57B69E90BF88B6737A.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.52.43:846][146]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.52.43:846][146]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.52.45:296][229]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.52.45:308][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.52.45:308][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.52.45:308][229]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:52:45)
+[2020.04.28-01.52.45:391][229]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.52.45:422][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031071s)
+[2020.04.28-01.52.45:424][229]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.52.45:425][229]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2020.04.28-01.52.45:425][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.033356s)
+[2020.04.28-01.52.45:503][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.52.45:506][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.52.45:506][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.52.45:507][229]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.52.45:507][229]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.52.45:513][229]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.52.45:540][229]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.52.45:542][229]LogInit: FAudioDevice initialized.
+[2020.04.28-01.52.45:562][229]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.52.45:566][229]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.52.45
+[2020.04.28-01.52.45:566][229]LogWorld: Bringing up level for play took: 0.003103
+[2020.04.28-01.52.45:567][229]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2020.04.28-01.52.45:569][229]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur 0,432
+[2020.04.28-01.52.45:569][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.52.47:877][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.52.47:877][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.52.47:877][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.52.47:877][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.52.47:877][363]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.52.47:877][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.52.47:878][363]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.52.47:878][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.52.47:893][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.52.47:893][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.52.47:899][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.52.47:931][363]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.52.47:934][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.52.47:939][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.28-01.52.47:976][364]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2020.04.28-01.52.49:326][438]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.52.49:344][438]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.52.49:344][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.52.50:895][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.52.50:907][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.52.50:907][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.52.50:907][523]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:52:50)
+[2020.04.28-01.52.50:984][523]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.52.51:003][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018400s)
+[2020.04.28-01.52.51:004][523]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.52.51:005][523]LogPlayLevel: PIE: World Init took: (0.002183s)
+[2020.04.28-01.52.51:005][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.020838s)
+[2020.04.28-01.52.51:073][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.52.51:075][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.52.51:075][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.52.51:075][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.52.51:083][523]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.52.51:083][523]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.52.51:083][523]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.52.51:084][523]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.52.51:084][523]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.52.51:084][523]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.52.51:084][523]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.52.51:084][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.52.51:084][523]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.52.51:110][523]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.52.51:112][523]LogInit: FAudioDevice initialized.
+[2020.04.28-01.52.51:120][523]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.52.51:125][523]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.52.51
+[2020.04.28-01.52.51:126][523]LogWorld: Bringing up level for play took: 0.003763
+[2020.04.28-01.52.51:126][523]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2020.04.28-01.52.51:129][523]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,008
+[2020.04.28-01.52.51:129][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.53.07:859][522]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.28-01.53.31:512][924]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.53.31:512][924]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.53.31:513][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.53.31:513][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.53.31:513][924]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.53.31:513][924]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.53.31:513][924]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.53.31:514][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.53.31:520][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.53.31:520][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.53.31:528][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.53.31:681][924]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.53.31:718][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.53.31:722][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.04.28-01.53.31:739][925]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.04.28-01.53.39:168][350]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2020.04.28-01.53.39:178][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.28-01.53.39:363][350]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.28-01.53.39:810][350]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.28-01.54.11:285][112]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2020.04.28-01.54.11:303][112]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.54.11:303][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.54.11:677][112]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.54.11:677][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.54.16:790][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.54.50:509][297]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.54.50:939][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.28-01.54.51:807][336]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol242F3602468F3285AE9543937D8772C6.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.54.51:831][336]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.54.51:831][336]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.55.08:353][261]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.55.08:717][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.04.28-01.55.09:517][298]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolA56494F64DAE70E73227E9888CBE0AE7.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.55.09:544][298]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.55.09:544][298]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.55.11:103][388]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.55.11:111][388]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.55.11:111][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.55.12:950][491]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.55.12:965][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.55.12:965][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.55.12:965][491]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:55:12)
+[2020.04.28-01.55.12:965][491]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.55.12:985][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020615s)
+[2020.04.28-01.55.12:987][491]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.55.12:987][491]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2020.04.28-01.55.12:987][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.022475s)
+[2020.04.28-01.55.13:060][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.55.13:062][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.55.13:062][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.55.13:063][491]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.55.13:063][491]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.55.13:071][491]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.55.13:071][491]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.55.13:071][491]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.55.13:071][491]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.55.13:072][491]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.55.13:072][491]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.55.13:072][491]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.55.13:072][491]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.55.13:072][491]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.55.13:103][491]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.55.13:105][491]LogInit: FAudioDevice initialized.
+[2020.04.28-01.55.13:117][491]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.55.13:120][491]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.55.13
+[2020.04.28-01.55.13:121][491]LogWorld: Bringing up level for play took: 0.002551
+[2020.04.28-01.55.13:121][491]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.04.28-01.55.13:123][491]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,013
+[2020.04.28-01.55.13:124][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.55.55:022][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.55.55:022][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.55.55:022][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.55.55:023][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.55.55:023][996]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.55.55:023][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.55.55:023][996]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.55.55:023][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.55.55:030][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.55.55:031][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.55.55:038][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.55.55:070][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.55.55:084][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.55.55:088][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.04.28-01.55.55:137][999]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.04.28-01.55.57:431][121]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.56.11:321][856]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.56.11:957][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.04.28-01.56.13:044][891]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_PatrolA91A1AAC4A1DA179135F5B8F6E137E44.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.56.13:074][891]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.56.13:074][891]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.56.14:866][986]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.56.14:880][986]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.56.14:880][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.56.16:292][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.56.16:302][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.56.16:303][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.56.16:303][ 64]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:56:16)
+[2020.04.28-01.56.16:346][ 64]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.56.16:364][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018267s)
+[2020.04.28-01.56.16:366][ 64]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.56.16:366][ 64]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2020.04.28-01.56.16:366][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.019904s)
+[2020.04.28-01.56.16:445][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.28-01.56.16:446][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.56.16:446][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.56.16:446][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.56.16:446][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.56.16:447][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.56.16:447][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.56.16:447][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.56.16:447][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.56.16:447][ 64]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.56.16:447][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.56.16:552][ 64]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.56.16:613][ 64]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.56.16:647][ 64]LogInit: FAudioDevice initialized.
+[2020.04.28-01.56.16:658][ 64]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.56.16:673][ 64]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.56.16
+[2020.04.28-01.56.16:674][ 64]LogWorld: Bringing up level for play took: 0.005068
+[2020.04.28-01.56.16:674][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.04.28-01.56.16:677][ 64]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,459
+[2020.04.28-01.56.16:677][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.56.40:464][483]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.56.40:481][483]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-01.56.40:501][483]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-01.56.40:501][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.56.40:502][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.56.40:502][483]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.56.40:502][483]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.56.40:502][483]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.56.40:502][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.56.40:512][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.56.40:513][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.56.40:524][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.56.40:553][483]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.56.40:557][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.56.40:562][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.04.28-01.56.40:577][484]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.04.28-01.57.06:806][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.28-01.57.07:183][692]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur_Auto30014FE2443C5631389DA0F8C0DE64BDA.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Autosaves/Game/TopDownBP/Maps/Artur_Auto3.umap'
+[2020.04.28-01.57.07:186][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Artur' took 0.407
+[2020.04.28-01.57.07:186][692]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2020.04.28-01.57.37:709][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.57.46:827][406]BlueprintLog: New page: Compilar NPC_Patrol
+[2020.04.28-01.57.47:120][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.04.28-01.57.48:100][450]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/NPC_Patrol0DA8DE0641E814CFC4F25D922258600A.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Blueprints/AI/NPC_Patrol.uasset'
+[2020.04.28-01.57.48:127][450]AssetCheck: New page: Asset Save: NPC_Patrol
+[2020.04.28-01.57.48:127][450]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/AI/NPC_Patrol.NPC_Patrol
+[2020.04.28-01.57.50:905][603]LogSlate: Window 'NPC_Patrol' being destroyed
+[2020.04.28-01.57.50:918][603]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.57.50:918][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.57.52:359][674]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.28-01.57.52:370][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.57.52:370][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.28-01.57.52:370][674]PIE: New page: Sessão de PIE : Artur (27 de abr de 2020 19:57:52)
+[2020.04.28-01.57.52:405][674]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.57.52:488][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083489s)
+[2020.04.28-01.57.52:489][674]LogAIModule: Creating AISystem for world Artur
+[2020.04.28-01.57.52:489][674]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2020.04.28-01.57.52:489][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Artur.Artur to /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur (0.085134s)
+[2020.04.28-01.57.52:565][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-01.57.52:567][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-01.57.52:567][674]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-01.57.52:567][674]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Name: Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: Channel Order:
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-01.57.52:574][674]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-01.57.52:604][674]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2020.04.28-01.57.52:606][674]LogInit: FAudioDevice initialized.
+[2020.04.28-01.57.52:616][674]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.28-01.57.52:619][674]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Artur.Artur up for play (max tick rate 60) at 2020.04.27-22.57.52
+[2020.04.28-01.57.52:620][674]LogWorld: Bringing up level for play took: 0.002212
+[2020.04.28-01.57.52:620][674]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2020.04.28-01.57.52:622][674]PIE: Momento de início de reprodução no editor para /Game/TopDownBP/Maps/UEDPIE_0_Artur -0,514
+[2020.04.28-01.57.52:622][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.58.02:228][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.58.02:230][249]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.28-01.58.02:250][249]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.28-01.58.02:251][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.58.02:251][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.58.02:251][249]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Artur
+[2020.04.28-01.58.02:251][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.58.02:251][249]LogWorld: UWorld::CleanupWorld for Artur, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-01.58.02:252][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.58.02:261][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.28-01.58.02:261][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur' with GeneratedClass '/Game/TopDownBP/Maps/Artur.Artur_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Artur.Artur:PersistentLevel.Artur'
+[2020.04.28-01.58.02:266][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-01.58.02:298][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.28-01.58.02:302][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-01.58.02:308][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.04.28-01.58.02:431][251]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.04.28-01.58.08:852][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.28-01.58.09:135][609]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Saved/Artur0031C393428EE3DE737695B3434C80E0.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime/Content/TopDownBP/Maps/Artur.umap'
+[2020.04.28-01.58.14:807][609]AssetCheck: New page: Asset Save: Artur
+[2020.04.28-01.58.14:807][609]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/Artur.Artur
