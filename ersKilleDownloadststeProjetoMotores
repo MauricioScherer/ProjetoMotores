@@ -1,0 +1,85 @@
+[1mdiff --git a/InvadeTime/Saved/Logs/InvadeTime.log b/InvadeTime/Saved/Logs/InvadeTime.log[m
+[1mindex ed99b3e..199592b 100644[m
+[1m--- a/InvadeTime/Saved/Logs/InvadeTime.log[m
+[1m+++ b/InvadeTime/Saved/Logs/InvadeTime.log[m
+[36m@@ -1,4 +1,4 @@[m
+[31m-﻿Log file open, 05/22/20 16:07:36[m
+[32m+[m[32m﻿Log file open, 05/26/20 16:25:46[m
+ LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)[m
+ LogWindows: File 'aqProf.dll' does not exist[m
+ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)[m
+[36m@@ -9,7 +9,7 @@[m [mLogConsoleResponse: Display: Failed to find resolution value strings in scalabil[m
+ LogInit: Display: Running engine for game: InvadeTime[m
+ LogPlatformFile: Not using cached read wrapper[m
+ LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.[m
+[31m-LogStats: Stats thread started at 0.116854[m
+[32m+[m[32mLogStats: Stats thread started at 13.817155[m
+ LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll[m
+ LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''[m
+ LogPluginManager: Mounting plugin Paper2D[m
+[36m@@ -125,13 +125,13 @@[m [mLogInit: Build: ++UE4+Release-4.24-CL-11590370[m
+ LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24[m
+ LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24[m
+ LogInit: Net CL: 10570792[m
+[31m-LogInit: OS: Windows 10 (Release 1803) (), CPU: AMD FX(tm)-8320 Eight-Core Processor           , GPU: NVIDIA GeForce GTX 1060 6GB[m
+[32m+[m[32mLogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB[m
+ LogInit: Compiled (64-bit): Feb 24 2020 15:39:18[m
+ LogInit: Compiled with Visual C++: 19.16.27032.01[m
+ LogInit: Build Configuration: Development[m
+ LogInit: Branch Name: ++UE4+Release-4.24[m
+ LogInit: Command Line: [m
+[31m-LogInit: Base Directory: E:/UnrealEngine/UE_4.24/Engine/Binaries/Win64/[m
+[32m+[m[32mLogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/[m
+ LogInit: Installed Engine Build: 1[m
+ LogDevObjectVersion: Number of dev versions registered: 25[m
+ LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10[m
+[36m@@ -163,1460 +163,2563 @@[m [mLogInit: Presizing for max 25165824 objects, including 0 objects not considered[m
+ LogInit: Object subsystem initialized[m
+ LogConfig: Setting CVar [[con.DebugEarlyDefault:1]][m
+ LogConfig: Setting CVar [[r.setres:1280x720]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[r.VSync:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Engine.ini][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Engine.ini][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Engine.ini][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Engine.ini][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]][m
+[31m-[2020.05.22-19.07.36:920][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]][m
+[31m-[2020.05.22-19.07.36:921][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]][m
+[31m-[2020.05.22-19.07.36:921][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]][m
+[31m-[2020.05.22-19.07.36:921][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]][m
+[31m-[2020.05.22-19.07.36:921][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Engine.ini][m
+[31m-[2020.05.22-19.07.36:921][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Engine.ini][m
+[31m-[2020.05.22-19.07.36:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Scalability.ini][m
+[31m-[2020.05.22-19.07.36:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]][m
+[31m-[2020.05.22-19.07.36:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]][m
+[31m-[2020.05.22-19.07.36:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Scalability.ini][m
+[31m-[2020.05.22-19.07.36:924][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]][m
+[31m-[2020.05.22-19.07.36:924][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unisinos_20_1/Motores/InvadeTimeNovo/ProjetoMotores/InvadeTime/Saved/Config/Windows/Scalability.ini][m
+[31m-[2020.05.22-19.07.36:924][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]][m
+[31m-[2020.05.22-19.07.36:924][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]][m
+[31m-[2020.05.22-19.07.36:924][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]][m
+[31m-[2020.05.22-19.07.36:924][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolutio
