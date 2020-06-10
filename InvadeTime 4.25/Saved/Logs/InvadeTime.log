@@ -10045,3 +10045,7 @@ Purging the undo buffer...
 [2020.06.10-02.45.07:943][474]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Saved/MenuSceneA9099AAF4CA310EED9C7AAA068E4C55B.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Content/TopDownBP/Maps/MenuScene.umap'
 [2020.06.10-02.45.08:042][474]AssetCheck: New page: Asset Save: MenuScene
 [2020.06.10-02.45.08:042][474]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/MenuScene.MenuScene
+[2020.06.10-02.46.21:886][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.06.10-02.46.22:497][846]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Saved/MenuSceneA8E1B12F47F53A529E30098E4B12DE7A.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Content/TopDownBP/Maps/MenuScene.umap'
+[2020.06.10-02.46.22:534][846]AssetCheck: New page: Asset Save: MenuScene
+[2020.06.10-02.46.22:534][846]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/MenuScene.MenuScene
