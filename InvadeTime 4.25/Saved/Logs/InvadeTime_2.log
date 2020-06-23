@@ -16998,3 +16998,9 @@ Script Stack (0 frames):
 [2020.06.22-02.32.36:016][549]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Saved/LoadingPersistentLVsD68C939C4F5FF50F9C4EECBF9C8490AF.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Content/TopDownBP/Maps/LoadingPersistentLVs.umap'
 [2020.06.22-02.32.36:072][549]AssetCheck: New page: Asset Save: LoadingPersistentLVs
 [2020.06.22-02.32.36:073][549]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/LoadingPersistentLVs.LoadingPersistentLVs
+[2020.06.22-03.10.20:776][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.22-03.10.21:969][ 86]LogSavePackage: Moving '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Saved/LoadingPersistentLVs4E4FB9A648735D7E9228A19B8AE79C14.tmp' to '../../../../../../Users/artur/Desktop/GitClones/ProjetoMotores/InvadeTime 4.25/Content/TopDownBP/Maps/LoadingPersistentLVs.umap'
+[2020.06.22-03.10.22:054][ 86]AssetCheck: New page: Asset Save: LoadingPersistentLVs
+[2020.06.22-03.10.22:054][ 86]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/LoadingPersistentLVs.LoadingPersistentLVs
+[2020.06.22-03.10.25:174][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.06.22-03.10.35:041][265]LogSlate: Window 'Save Content' being destroyed
